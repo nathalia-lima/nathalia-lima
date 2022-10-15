@@ -1,14 +1,19 @@
-### Oii!! Eu sou a Nathalia 👋
+### <h1>Oii!! Eu sou a Nathalia 👋</h1>
 
-##
+<div style="display: inline"><br>
+  <h2 align="center">🧵 Um pouco sobre mim:</h2>
+  
+  <img align="right" alt="Rafa-pic" height=150px style="border-radius:50px;" src="https://img.wattpad.com/37e8a320673e71a15009177511dcf81eac49f028/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f643352524c3642574f394a7950513d3d2d3936343832373133302e313634313737626533373335663235343434323934303331363236392e676966">
 
-🧵 Um pouco sobre mim:
+  - 🎉 Tenho 18 anos;
+  - 💻 Estudo voltado para Desenvolvimento Web;
+  - 📚 Cursando Análise e Desenvolvimento de Sistemas;
+  - 🎓 Técnico em Informática para Internet;
+  - ⚡ Fun fact: Eu só aprendi a usar o computador de verdade em 2018...
+  
+  
+</div>
 
-- 🎉 Tenho 18 anos;
-- 💻 Estudo voltado para Desenvolvimento Web;
-- 📚 Cursando Análise e Desenvolvimento de Sistemas;
-- 🎓 Técnico em Informática para Internet;
-- ⚡ Fun fact: Eu só aprendi a usar o computador de verdade em 2018...
 
 ##
 
@@ -37,5 +42,7 @@
   <a href = "mailto:nl265080@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathalia-l-7b13791ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.behance.net/nathalialima24" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+  
+   ![Snake animation](https://github.com/nathalia-lima)
 
 </div>
