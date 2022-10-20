@@ -19,9 +19,9 @@
 
 <div align="center">
   <a href="https://github.com/nathalia-lima">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathalia-lima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-lima&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  
+ <img src="https://github-readme-stats.vercel.app/api?username=nathalia-lima&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=tokyonight" width="480"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-lima&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 
 <h2 align="center"><strong>Tecnologias que mais utilizo e estudo:</strong></h2>
 
