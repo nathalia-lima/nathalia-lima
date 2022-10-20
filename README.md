@@ -20,8 +20,8 @@
 <div align="center">
   <a href="https://github.com/nathalia-lima">
   
- <img src="https://github-readme-stats.vercel.app/api?username=nathalia-lima&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=tokyonight" width="480"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-lima&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+ <img src="https://github-readme-stats.vercel.app/api?username=nathalia-lima&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=tokyonight" width="400"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-lima&layout=compact&theme=tokyonight&hide_border=true" width="335" />
 
 <h2 align="center"><strong>Tecnologias que mais utilizo e estudo:</strong></h2>
 
