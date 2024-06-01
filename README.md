@@ -7,7 +7,7 @@
 
   - 🎉 Tenho 20 anos;
   - 💻 Estudo voltado para BackEnd e Dados;
-  - 📚 Cursando Análise e Desenvolvimento de Sistemas;
+  - 📚 Cursando Análise e Desenvolvimento de Sistemas e Ciência de Dados;
   - 🎓 Técnico em Informática para Internet;
   - ⚡ Fun fact: Eu só aprendi a usar o computador de verdade em 2018...
   
