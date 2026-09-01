@@ -9,7 +9,7 @@
   - 💻 Estudo voltado a Desenvolvimento BackEnd com Java;
   - 🎓 Graduada em Análise e Desenvolvimento de Sistemas;
   - 🎓 Técnico em Informática para Internet;
-  - 📚 Cursando Pós-Graduação em Arquitetura e Desenvolvimento em Java;
+  - 📚 Pós Graduada em Arquitetura e Desenvolvimento em Java;
   - ⚡ Fun fact: Eu só aprendi a usar o computador de verdade em 2018...
   
   
@@ -42,9 +42,7 @@
 <h2 align="center"><strong>Onde me encontrar:</strong></h2>
 
 <div align="center">
-  <a href = "mailto:nl265080@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathalia-l-7b13791ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.behance.net/nathalialima24" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
   
    ![snake gif](https://github.com/nathalia-lima/nathalia-lima/blob/output/github-contribution-grid-snake.svg) 
 
